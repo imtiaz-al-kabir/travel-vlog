@@ -24,7 +24,8 @@ img {
   /* transform: translate(-50%, -50%); */
 }
 .img {
-  width: 400px;
+  width: 449px;
   height: 300px;
+  margin: 3px;
   border: 1px solid black;
 }
