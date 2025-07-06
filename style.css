@@ -2,6 +2,11 @@ h1 {
   background-color: aqua;
   text-align: center;
 }
+h3 {
+  text-align: center;
+  text-decoration: bold;
+  font-size: 30px;
+}
 div {
   width: 100%;
 }
@@ -17,4 +22,9 @@ img {
   font-size: 50px;
 
   /* transform: translate(-50%, -50%); */
+}
+.img {
+  width: 400px;
+  height: 300px;
+  border: 1px solid black;
 }
